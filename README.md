@@ -1,7 +1,7 @@
 <table align="center">
 <tr><td align="center">
 
-  <img src="pfp.jpg"/>
+  <img src="pfp.jpg" height="500px"/>
 
   Wanting and doing are two separate things.
   <br/>
